@@ -3,7 +3,7 @@ version: 0.1.0
 description: A ellie library made by ahmtcn123
 author: ahmtcn123
 license: GPL-2.0
-dependencies
+dependencies:
 	- name: EllieStd
           version: 1.0.0
 	  git: https://github.com/behemehal/Ellie-Standard-Types
